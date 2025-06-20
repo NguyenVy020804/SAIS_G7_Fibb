@@ -3,3 +3,9 @@
 2. Write a specific availability scenario for a system that controls an unmanned passenger airplane.
 
 3. Write a specific availability scenario for a software application like Microsoft Word.
+
+4. How does "recovery" differentiate availability from reliability?
+
+5. Why is availability linked to both security and performance?
+
+6. What does Woody Allen’s quote imply about designing highly available systems?
