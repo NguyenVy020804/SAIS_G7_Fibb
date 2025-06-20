@@ -3,5 +3,3 @@
 2. Write a specific availability scenario for a system that controls an unmanned passenger airplane.
 
 3. Write a specific availability scenario for a software application like Microsoft Word.
-
-4. mkmkfceccaihf
